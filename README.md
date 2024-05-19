@@ -1,6 +1,3 @@
-JetBrains Request ID: 6400480
-Email: zf.xin@qq.com
-
 - 👋 Hi, I’m @TremblingV5
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
